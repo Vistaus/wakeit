@@ -1,7 +1,7 @@
 {
     "architecture": "@HOST_ARCH@",
     "description": "@APP_DESCRIPTION@",
-    "framework": "ubuntu-sdk-16.04",
+    "framework": "ubuntu-sdk-16.04.4",
     "hooks": {
         "wakeit": {
             "apparmor": "wakeit.apparmor",

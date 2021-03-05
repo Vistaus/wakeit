@@ -41,7 +41,7 @@ set(DATA_DIR /)
 set(DESKTOP_DIR ${DATA_DIR})
 set(APP_DESKTOP "${APP_NAME}.desktop")
 
-set(APP_EXEC "qmlscene $@ ${WAKEIT_DIR}/${MAIN_QML}")
+set(APP_EXEC "qmlscene %U ${WAKEIT_DIR}/${MAIN_QML}")
 
 # Determine the name and arch triplet of the host
 execute_process(

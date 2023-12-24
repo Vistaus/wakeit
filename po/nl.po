@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-05 05:43+0000\n"
+"PO-Revision-Date: 2023-12-24 17:23+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: ../app/ModifyDialog.qml:19
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:19
+msgid "Descriptive title"
+msgstr "Omschrijving"
+
+#: ../app/ModifyDialog.qml:31
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:31
+msgid ""
+"Send as broadcast packet\n"
+"(disable for WAN)"
+msgstr ""
+"Versturen als communicatiepacket\n"
+"(schakel uit om WAN te gebruiken)"
+
+#: ../app/ModifyDialog.qml:38
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:38
+msgid "Hostname or IP address"
+msgstr "Hostnaam of ip-adres"
+
+#: ../app/ModifyDialog.qml:45
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:45
+msgid "MAC address"
+msgstr "MAC-adres"
+
+#: ../app/ModifyDialog.qml:51
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:51
+msgid "Port (typically 9)"
+msgstr "Poort (normaliter 9)"
+
+#: ../app/ModifyDialog.qml:57
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/ModifyDialog.qml:57
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../app/wakeit.qml:140
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:140
+msgid "Wake"
+msgstr "Ontwaken"
+
+#: ../app/wakeit.qml:162
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:162
+msgid "Edit Device"
+msgstr "Apparaat bewerken"
+
+#: ../app/wakeit.qml:163
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:163
+msgid "Apply"
+msgstr "Toepassen"
+
+#: ../app/wakeit.qml:181
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:181
+msgid "Add Device"
+msgstr "Apparaat toevoegen"
+
+#: ../app/wakeit.qml:182 ../app/wakeit.qml:235
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:182
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:235
+msgid "Add"
+msgstr "Toevoegen"
+
+#: ../app/wakeit.qml:208
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:208
+msgid "Error"
+msgstr "Foutmelding"
+
+#: ../app/wakeit.qml:215
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:215
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../app/wakeit.qml:221 ../app/wakeit.qml:225
+#: ../build/po/wakeit.desktop.in.h:2
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:221
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:225
+#: ../build/x86_64-linux-gnu/app/po/wakeit.desktop.in.h:2
+#: /home/mateo/wakeit/build/aarch64-linux-gnu/app/po/wakeit.desktop.in.h:2
+msgid "Wake It!"
+msgstr "Ontwaken!"
+
+#: ../app/wakeit.qml:252
+#: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:252
+msgid "Use the toolbar to add a device"
+msgstr "Druk op de werkbalkknop om een apparaat toe te voegen"
+
+#: ../build/po/wakeit.desktop.in.h:1
+#: ../build/x86_64-linux-gnu/app/po/wakeit.desktop.in.h:1
+#: /home/mateo/wakeit/build/aarch64-linux-gnu/app/po/wakeit.desktop.in.h:1
+msgid "wakeit"
+msgstr "ontwaken"
